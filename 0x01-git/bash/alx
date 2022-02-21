@@ -1,4 +1,4 @@
 vim -r bash/alx
 bash/alx
-echo 'ALX School'
+echo 'ALX School is so cool'
 
